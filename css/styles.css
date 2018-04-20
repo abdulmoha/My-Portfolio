@@ -1,9 +1,30 @@
-body{background-color: Black
+body{background-color: Black;
+  width: auto;
 
 }
+
 .bigbox{
   color:Orchid;
   background-color:Black;
   padding: 30px;
-  background-color:
+  font-size:40px
+}
+
+.list{
+  text-align: center;
+  padding:10px;
+}
+
+ul li{
+  display: inline-block;
+  margin: 0px 30px;
+}
+
+.projects{
+  display: block;
+  margin-top:130px;
+}
+
+h2{
+  color: White;
 }
