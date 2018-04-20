@@ -1,13 +1,16 @@
 h1{
   color: White;
+  font-size: 40px;
   font-style:Georgia;
   font-family:serif;
+  width: 20%;
+  margin:20px auto;
 }
 
 .hech1{
   text-align: center;
-  font-size: 40px;
 }
+
 body{background-color: Black;
   width: auto;
   font-family: sans-serif;
@@ -40,4 +43,5 @@ ul li{
 h2{
   color: White;
   font-style:Lucida;
+  font-size: 30px;
 }
