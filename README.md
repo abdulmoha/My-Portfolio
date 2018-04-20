@@ -9,10 +9,10 @@ This project is just a brief portfolio of myself.
 
 ###### Project setup instructions
 To start using this project use the following commands;
--`git clone https://github.com/abdulmoha/My-Portfolio`
--`My-Portfolio`
--`atom .`
--`code . [//]: # (this is if Visual Studio Code is your preferred text editor)`
+- `My-Portfolio`
+- `git clone https://github.com/abdulmoha/My-Portfolio`
+- `atom .`
+- `code . [//]: # (this is if Visual Studio Code is your preferred text editor)`
 
 ######## License Info
 MIT License
