@@ -1,14 +1,19 @@
 h1{
-  color: White;
+  color:RosyBrown ;
   font-size: 40px;
   font-style:Georgia;
   font-family:serif;
-  width: 20%;
+  width: 25%;
   margin:20px auto;
 }
 
 .hech1{
   text-align: center;
+}
+
+.picha{
+  padding:40px
+
 }
 
 body{background-color: Black;
@@ -19,10 +24,11 @@ body{background-color: Black;
 }
 
 .bigbox{
-  color:Orchid;
+  color:Honeydew;
   background-color:Black;
-  padding: 30px;
-  font-size:40px
+  text-align: center;
+  padding: 60px;
+  font-size:30px
 }
 
 .list{
@@ -41,7 +47,7 @@ ul li{
 }
 
 h2{
-  color: White;
+  color:RosyBrown;
   font-style:Lucida;
   font-size: 30px;
 }
