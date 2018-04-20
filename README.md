@@ -4,17 +4,17 @@
 ### Authors
 [Ahmed Mohamed](https://github.com/abdulmoha)
 
-#### Project description
+### Project description
 This project is just a brief portfolio of myself.
 
-###### Project setup instructions
+### Project setup instructions
 To start using this project use the following commands;
 - `My-Portfolio`
 - `git clone https://github.com/abdulmoha/My-Portfolio`
 - `atom .`
 - `code . [//]: # (this is if Visual Studio Code is your preferred text editor)`
 
-######## License Info
+### License Info
 MIT License
 
 copyright (c) 2018 Ahmed Mohamed
